@@ -1,5 +1,6 @@
 # rsl_victory
 The spider for extraction necessary information about returned and services leagues (RSL) of Australia from http://www.rslvic.com.au.
+Data located by this URL: http://www.rslvic.com.au/rsl-network/victorian-map-of-all-branches/
 
 System requirements are contained in requirements.txt.
 
